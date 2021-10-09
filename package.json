@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "discord.js": "^12.4.1",
+    "distube": "^2.7.0"
+  }
+}
